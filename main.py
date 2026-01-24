@@ -14,3 +14,5 @@ brca_dataset = load_breast_cancer()
 X = pd.DataFrame(brca_dataset.data, columns=brca_dataset.feature_names)
 Y = pd.Series(brca_dataset.target, name='clase')
 
+
+print(X)

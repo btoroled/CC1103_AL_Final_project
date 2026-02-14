@@ -9,10 +9,10 @@ Proyecto de **Análisis de Componentes Principales (PCA)** aplicado a datos biom
 
 | # | Nombre | Rol | Email/GitHub |
 |---|--------|-----|--------------|
-| 1 | **[Nombre 1]** | Líder del proyecto | [@usuario] / [correo] |
-| 2 | **[Nombre 2]** | Experto/a en teoría | [@usuario] / [correo] |
-| 3 | **[Nombre 3]** | Analista de resultados | [@usuario] / [correo] |
-| 4 | **[Nombre 4]** | Comunicador/a (informe + presentación) | [@usuario] / [correo] |
+| 1 | Diego Carpio | Líder del proyecto | [diego.carpio@utec.edu.pe|
+| 2 | Obed Umereres | Experto/a en teoría |obed.umeres@utec.edu.pe|
+| 3 | Andre Ayasta | Analista de resultados |andre.ayasta@utec.edu.pe|
+| 4 | Benjamin Toro | Comunicador/a (informe + presentación) | [benjamin.toro@gmail.com] |
 
 ---
 
@@ -32,13 +32,7 @@ Usamos el dataset BRCA-W (569 observaciones, 30 variables numéricas) con dos cl
 
 ## Estructura sugerida del repositorio
 ```
-.
-├── codigos/
-│   ├── 
-├── src/
-│   ├──
-├── report/
-│   ├── 
+
 └── README.md
 ```
 
